@@ -1,5 +1,5 @@
 // program written in programiz js editor
-// programs are written separately and should run seperately
+// programs are written separately and should run separately
 
 // 1st problem - find the largest integer in the array
 
